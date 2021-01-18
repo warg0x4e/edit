@@ -1,5 +1,4 @@
 ListLines, Off
-Process, Priority,, BelowNormal
 
 #KeyHistory 0
 #NoEnv
